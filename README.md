@@ -1,6 +1,6 @@
 # Imagine Dragons
 
-![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=YELLOW&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=F7DF1E&style=for-the-badge)
 
 Projeto desenvolvido quando estava aprendendo desenvolvimento de websites, subi aqui para ter de lembrança, ver o quanto evolui e nunca me esquecer que todo programador um dia foi junior, talvez faça o CSS dele algum dia. 
 O objetivo era praticar HTML com incorporações de midía e navegação entre páginas.
